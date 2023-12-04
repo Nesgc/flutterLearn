@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
                 OutlinedButton(
                     style: TextButton.styleFrom(
                       foregroundColor: Colors.white,
-                      disabledForegroundColor: Colors.red,
+                      disabledForegroundColor: Colors.blue,
                       backgroundColor: Colors.lightBlueAccent,
                     ),
                     onPressed: () {
